@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harkirath Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
+
+
+
 - 🌱 I’m currently learning **Typescript,Tailwind CSS and Next.js**
 
 - 💬 Ask me about **React js,Javascript,CSS,HTML5,bootstrap**
