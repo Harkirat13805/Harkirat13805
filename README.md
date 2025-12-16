@@ -1,28 +1,93 @@
 <h1 align="center">Hi 👋, I'm Harkirath Singh</h1>
-<h3 align="center">A  Software developer from India</h3>
+<h3 align="center">Data Engineer | Cloud Data Platforms | ETL & Analytics</h3>
 
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
+<img align="right" alt="data-engineering" width="380"
+src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
 
+---
 
+### 👨‍💻 About Me
+- 💼 Working as a **Data Engineer at GSPANN**
+- 🎓 Engineering graduate from **Thapar Institute of Engineering & Technology**
+- 📜 **Databricks Certified Data Engineer Associate**
+- 🏗️ Focused on building **scalable ETL pipelines, lakehouse architectures, and analytics-ready datasets**
+- ☁️ Hands-on with **Databricks, Microsoft Fabric, Azure, AWS, and Snowflake**
+- 📫 Reach me at **kiratsingh13805@gmail.com**
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/harkirathjolly/">harkirathjolly</a>
 
-- 🌱 I’m currently learning **Typescript,Tailwind CSS and Next.js**
+---
 
-- 💬 Ask me about **React js,Javascript,CSS,HTML5,bootstrap**
+### 🧠 What I Work On (Data Engineering)
+- Designing and maintaining **batch data pipelines** using **PySpark and SQL**
+- Implementing **Bronze–Silver–Gold (Medallion) architecture**
+- Building **incremental ETL workflows** using watermarking strategies
+- Data ingestion from multiple sources (files, APIs, cloud storage)
+- Transforming raw data into **analytics-ready curated datasets**
+- Writing **optimized Spark SQL queries** (joins, aggregations, window functions)
+- Performing **data quality checks** (nulls, duplicates, schema validation)
+- Working with **Delta Lake tables** (MERGE, OPTIMIZE, VACUUM)
+- Supporting cloud-based analytics platforms and reporting use cases
 
-- 📫 How to reach me **kiratsingh13805@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harkirathjolly/](https://www.linkedin.com/in/harkirathjolly/)
+### 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harkirathsinghj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harkirathsinghj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harkirathjolly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harkirath singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kiratsingh13805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiratsingh13805" height="30" width="40" /></a>
+#### Programming & Querying
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### Big Data & Processing
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/delta-lake.svg" width="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harkirat13805&show_icons=true&locale=en&layout=compact" alt="harkirat13805" /></p>
+#### Cloud & Data Platforms
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-fabric.svg" width="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harkirat13805&show_icons=true&locale=en" alt="harkirat13805" /></p>
+#### Engineering Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+### 📈 Core Skills
+- Data Engineering & ETL Design  
+- PySpark & Spark SQL  
+- Databricks & Delta Lake  
+- Cloud Data Platforms (Azure, AWS, Fabric)  
+- Data Warehousing & Modeling  
+- Incremental Loads & Batch Processing  
+- Performance Optimization  
+- Data Quality & Validation  
+
+---
+
+### 🔍 Interests
+- Scalable data systems
+- Cloud-native analytics
+- Distributed data processing
+- Modern lakehouse architectures
+
+---
+
+<p>
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=harkirat13805&show_icons=true&locale=en&layout=compact"/>
+</p>
+
+<p>&nbsp;
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=harkirat13805&show_icons=true&locale=en"/>
+</p>
